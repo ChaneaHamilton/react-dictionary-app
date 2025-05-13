@@ -1,9 +1,12 @@
 body {
   background: #f9f8fe;
 }
-
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
 .App-footer {
-  text-align: cetner;
+  text-align: center;
   margin: 30px 0;
 }
 .App header {
