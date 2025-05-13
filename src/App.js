@@ -5,11 +5,11 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <header className="App-header">My dictionary App</header>
+        <header className="App-header">Chanea's Dictionary App</header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="Hello" />
         </main>
-        <footer className="text-center">
+        <footer className="App-footer">
           <small>Coded by Chanea Hamilton</small>
         </footer>
       </div>
